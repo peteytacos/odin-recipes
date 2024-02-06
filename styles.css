@@ -1,0 +1,24 @@
+* {
+  align: center;
+}
+
+h1 {
+  color: blue;
+  background: orange;
+  padding: 20px;
+}
+
+a {
+  color: black;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+h2 {
+  color: greenyellow;
+  background: black;
+  padding: 20px;
+}
